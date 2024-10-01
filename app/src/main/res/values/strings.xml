@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Vistas EV1</string>
+    <string name="iniciar_sesion">Iniciar sesión</string>
+    <string name="nombre_de_usuario">Nombre de usuario</string>
+    <string name="haz_olvidado_tu_contrasena">¿Haz olvidado tu contraseña?</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="registrarse"><u>Registrarse</u></string>
+    <string name="registrarse2">Registrarse</string>
+    <string name="correo">Correo</string>
+    <string name="ya_tienes_una_cuenta"><u>¿Ya tienes una cuenta?</u></string>
+    <string name="sectores_de_estacionamientos">Sectores de Estacionamientos</string>
+    <string name="sector_2_ocupado_30">Sector 2 \n Ocupado: 90% \n <u>Ver sector</u></string>
+    <string name="sector_1_ocupado_70">Sector 1 \n Ocupado: 70% \n <u>Ver sector</u></string>
+    <string name="home">Home</string>
+    <string name="icono_de_configuracion">Icono de configuración</string>
+    <string name="sector_1">Sector 1</string>
+    <string name="sector_2">Sector 2</string>
+    <string name="sector_3">Sector 3</string>
+    <string name="sector_4">Sector 4</string>
+    <string name="sector_5">Sector 5</string>
+    <string name="sector_1_estacionamientos">Sector 1 / Estacionamientos</string>
+    <string name="icono_de_auto">icono de auto</string>
+    <string name="estacionamiento_1">Estacionamiento 1</string>
+    <string name="ocupado">Ocupado</string>
+    <string name="estacionamiento_2">Estacionamiento 2</string>
+    <string name="libre">Libre</string>
+    <string name="estacionamiento_3">Estacionamiento 3</string>
+    <string name="estacionamiento_4">Estacionamiento 4</string>
+    <string name="estacionamiento_5">Estacionamiento 5</string>
+    <string name="estacionamiento_6">Estacionamiento 6</string>
+    <string name="estacionamiento_7">Estacionamiento 7</string>
+    <string name="estacionamiento_8">Estacionamiento 8</string>
+    <string name="configuracion">Configuración</string>
+    <string name="modo_oscuro">Modo oscuro</string>
+</resources>
